@@ -1,0 +1,4 @@
+[submodule "Decikingship/maizhi_addons"]
+	path = Decikingship/maizhi_addons
+	url = git@github.com:Decikingship/maizhi_addons.git
+	branch = master
